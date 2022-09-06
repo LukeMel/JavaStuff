@@ -1,4 +1,3 @@
-//using the Terminal create programm that will ask user to fill a list with numbers and then print the list to the console
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
