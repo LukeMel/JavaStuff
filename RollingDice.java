@@ -1,4 +1,3 @@
-//using the Terminal create a program that will roll a dice 
 
 import java.util.Random;
 public class RollingDice {

@@ -1,5 +1,4 @@
 
-//create game with two players who need to guess a number between 1 and 10
 import java.util.Scanner;
 import java.util.Random;
 

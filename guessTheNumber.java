@@ -1,4 +1,3 @@
-//using the Terminal create programm that will ask user to guess a number between 1 and 100 
 import java.util.Random;
 import java.util.Scanner;
 public class guessTheNumber {
