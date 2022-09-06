@@ -18,7 +18,7 @@ public class GuessNumbers2Player {
             int number = rand.nextInt(10) + 1;
 
             for (int i = 3; i != 0; i--) {
-                System.out.println(player1 + ", quess a number between 1 and 10");
+                System.out.println(player1 + ", guess a number between 1 and 10");
                 int guess1 = input.nextInt();
                 System.out.println(player2 + ", guess a number between 1 and 10");
                 int guess2 = input.nextInt();
